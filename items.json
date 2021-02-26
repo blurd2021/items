@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "categoria": "agua",
+    "name": "Botellón de agua",
+    "descripcion": "Agua Cascada 18.3 litros",
+    "precio": "40.00",
+    "foto": "https://randomuser.me/api/portraits/med/men/75.jpg"
+  },
+
+{
+    "id": 2,
+    "categoria": "pulpa",
+    "name": "Pulpa de Chinola",
+    "descripcion": "Medio galón, 64 onzas",
+    "precio": "350.00",
+    "foto": "https://randomuser.me/api/portraits/med/men/75.jpg"
+  },
+
+{
+    "id": 3,
+    "categoria": "pulpa",
+    "name": "Pulpa de Limón",
+    "descripcion": "Medio galón, 64 onzas",
+    "precio": "40.00",
+    "foto": "https://randomuser.me/api/portraits/med/men/75.jpg"
+  },
+
+{
+    "id": 4,
+    "categoria": "detergente",
+    "name": "Jabón líquido",
+    "descripcion": "Detergente para lavar, 128 onzas",
+    "precio": "120.00",
+    "foto": "https://randomuser.me/api/portraits/med/men/75.jpg"
+  },
+
+{
+    "id": 1,
+    "categoria": "detergente",
+    "name": "Jabón líquido",
+    "descripcion": "detergente para fregar, 128 onzas",
+    "precio": "140.00",
+    "foto": "https://randomuser.me/api/portraits/med/men/75.jpg"
+  }
+  
+]
